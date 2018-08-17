@@ -4,9 +4,9 @@ Sublist3r is a python tool designed to enumerate subdomains of websites using OS
 
 [subbrute](https://github.com/TheRook/subbrute) was integrated with Sublist3r to increase the possibility of finding more subdomains using bruteforce with an improved wordlist. The credit goes to TheRook who is the author of subbrute.
 
-## Screenshots
+## Screenshot
 
-![Sublist3r](http://www.secgeek.net/images/Sublist3r.png "Sublist3r in action")
+![Sublist3r](https://3.bp.blogspot.com/-1Z7NqJDeiqQ/W1sRWmPr--I/AAAAAAAANEU/NMZJ7a5nezsadDo2bMN-7X-PzQVRwkHtwCLcBGAs/s1600/Sublist3r%2Bmin.png "Sublist3r in action")
 
 
 ## Installation
