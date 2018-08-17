@@ -1,0 +1,5 @@
+argparse
+dnspython
+requests
+socket
+platform
