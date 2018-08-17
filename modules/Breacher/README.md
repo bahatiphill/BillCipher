@@ -28,6 +28,5 @@ python breacher -u example.com --path /data
 ```
 <b>Note: </b> When you specify an extension using <b>--type</b> option, Breacher includes paths of that extension as well as paths with no extensions like <b>/admin/login</b>
 
-#### Video Demo
-
-[![Breacher](https://i.imgur.com/D9my9A5.png)](https://youtu.be/BEpt5JmcWPk)
+# Video demo
+[![Breacher VideoDemo](https://i.imgur.com/D9my9A5.png)](https://www.youtube-nocookie.com/embed/BEpt5JmcWPk)
