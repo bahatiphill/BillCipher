@@ -151,17 +151,17 @@ def iseeverything():
 
         elif choose == '15':
             clear()
-            os.system('python3 ./modules/Infoga/infoga.py --domain '+victim)
+            os.system('cd modules/Infoga && python3 infoga.py --domain '+victim)
             back()
 
         elif choose == '16':
             clear()
-            os.system('python3 ./modules/Sublist3r/sublist3r.py -d '+victim)
+            os.system('cd modules/Sublist3r && python3 sublist3r.py -d '+victim)
             back()
 
         elif choose == '17':
             clear()
-            os.system('python ./modules/Breacher/breacher.py -u '+victim)
+            os.system('cd modules/Breacher && python breacher.py -u '+victim)
             back()
 
         elif choose == '18':
