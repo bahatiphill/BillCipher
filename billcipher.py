@@ -61,7 +61,7 @@ def iseeverything():
             banner()
         else:
             print('?')
-            print()
+            iseeverything()
 
         choose = input('What information would you like to collect? (1-20): ')
 
