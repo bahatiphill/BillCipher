@@ -1,4 +1,4 @@
-# About BillCipher 2.0
+# About BillCipher 2.1
 Information Gathering tool for a Website or IP address, use some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a>.
 BillCipher can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
