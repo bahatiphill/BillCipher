@@ -170,7 +170,7 @@ def iseeverything():
             back()
 
         elif choose == '19':
-            print("""\033[93mBillCipher 2.0 - Information Gathering of a Website or IP address
+            print("""\033[93mBillCipher 2.1 - Information Gathering of a Website or IP address
 
 AUTHOR: https://GitHackTools.blogspot.com
         https://twitter.com/SecureGF#
