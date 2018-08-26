@@ -21,8 +21,8 @@ BillCipher can work in any operating system if they have and support Python 2, P
  * Subdomain listing (use Sublist3r)
  * Find Admin login site (use Breacher)
  * Check and Bypass CloudFlare (use HatCloud)
- * Website Copier (use httrack) NEW
- * Host Info Scanner (use WhatWeb) NEW
+ * Website Copier (use httrack) NEW!
+ * Host Info Scanner (use WhatWeb) NEW!
  
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
