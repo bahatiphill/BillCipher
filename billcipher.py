@@ -36,16 +36,18 @@ def bill():
 
 def banner():
     print("""\033[96m
- 1) DNS Lookup        11) Find Shared DNS Servers
- 2) Whois Lookup      12) Get Robots.txt
- 3) GeoIP Lookup      13) Host DNS Finder
- 4) Subnet Lookup     14) Reserve IP Lookup
- 5) Port Scanner      15) Email Gathering (use Infoga)
- 6) Page Links        16) Subdomain listing (use Sublist3r)
- 7) Zone Transfer     17) Find Admin login site (use Breacher)
- 8) HTTP Header       18) Check and Bypass CloudFlare (use HatCloud)
- 9) Host Finder       19) About BillCipher
- 10) IP-Locator       20) Fuck Out Of Here (Exit)""")
+ 1) DNS Lookup                 13) Host DNS Finder
+ 2) Whois Lookup               14) Reserve IP Lookup
+ 3) GeoIP Lookup               15) Email Gathering (use Infoga)
+ 4) Subnet Lookup              16) Subdomain listing (use Sublist3r)
+ 5) Port Scanner               17) Find Admin login site (use Breacher)
+ 6) Page Links                 18) Check and Bypass CloudFlare (use HatCloud)
+ 7) Zone Transfer              19) Website Copier (use httrack)
+ 8) HTTP Header                20) Host Info Scanner (use WhatWeb)
+ 9) Host Finder                21) About BillCipher
+ 10) IP-Locator                22) Fuck Out Of Here (Exit)
+ 11) Find Shared DNS Servers
+ 12) Get Robots.txt""")
     print()
 
 def iseeverything():
@@ -170,6 +172,17 @@ def iseeverything():
             back()
 
         elif choose == '19':
+            os.system('cd websource && mkdir '+victim)
+            os.system('cd websource && cd '+victim+' && httrack '+victim)
+            print("The website source code was saved in folder 'websource'")
+            back()
+
+        elif choose == '20':
+            clear()
+            os.system('whatweb -v '+victim)
+            back()
+
+        elif choose == '21':
             print("""\033[93mBillCipher 2.1 - Information Gathering of a Website or IP address
 
 AUTHOR: https://GitHackTools.blogspot.com
@@ -178,7 +191,7 @@ AUTHOR: https://GitHackTools.blogspot.com
         https://plus.google.com/+TVT618""")
             back()
 
-        elif choose == '20':
+        elif choose == '22':
             exit
 
         else:
