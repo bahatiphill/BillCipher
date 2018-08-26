@@ -1,4 +1,4 @@
-# About BillCipher 2.1
+# About BillCipher 2.2
 Information Gathering tool for a Website or IP address, use some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a>.
 BillCipher can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
@@ -21,9 +21,12 @@ BillCipher can work in any operating system if they have and support Python 2, P
  * Subdomain listing (use Sublist3r)
  * Find Admin login site (use Breacher)
  * Check and Bypass CloudFlare (use HatCloud)
+ * Website Copier (use httrack) NEW
+ * Host Info Scanner (use WhatWeb) NEW
  
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
+    sudo apt install httrack whatweb
     git clone https://github.com/GitHackTools/BillCipher
     cd BillCipher
     pip install -r requirements.txt
@@ -76,7 +79,6 @@ Google Plus: <a href="https://plus.google.com/+TVT618" target="_blank"><span sty
 # To-do list
  * Create a own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
  * Add more features
- * Gather information about the server's operating system (2.1)
- * Website Copier (use bhttrack and only support for Linux) (2.2)
- * Gather information about host with Shodan (2.1)
+ * Gather information about host (2.2) DONE!
+ * Website Copier (use bhttrack and only support for Linux) (2.2) DONE!
  * And more...
