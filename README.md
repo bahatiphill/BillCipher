@@ -60,7 +60,7 @@ BillCipher uses some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank">
 
 All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2F6ioDW" target="_blank"><span style="color: blue">Infoga</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://github.com/githacktools" target="_blank"><span style="color: blue">GitHackTools</span></a>.
 
-# Screenshots
+# Screenshots (Older version)
 ![Run BillCipher in Parrot Security OS](https://3.bp.blogspot.com/-8DvH0NPGLPM/W3UCK9hqF3I/AAAAAAAANRY/MBI0XiK8WnEzVB13IZdpWhhQgKlYfNDdACLcBGAs/s1600/BillCipher%2BParrotSec.png)
 ![Run BillCipher in Kali Linux](https://2.bp.blogspot.com/-g-BQCqbWjQ8/W3UCJWgbVgI/AAAAAAAANRU/7NWPE4APngANHIp-cLcQzNQTFBEF3eo-QCLcBGAs/s1600/BillCipher%2BKaliLinux.png)
 ![Run BillCipher in Windows 10](https://4.bp.blogspot.com/-gFl2fqik788/W3UCJT1CNmI/AAAAAAAANRQ/90nTvfAQXGoFYRyMG1x5JLzRu_Y0INqWwCLcBGAs/s1600/BillCipher%2BWindows%2B10.PNG)
