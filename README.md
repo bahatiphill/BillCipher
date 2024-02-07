@@ -43,9 +43,9 @@ Download and run Ruby-lang setup file from <a href="https://rubyinstaller.org" t
 
 Download and run Git setup file from <a href="https://Git-scm.com" target="_blank"><span style="color: blue">Git-scm.com</span></a>, choose <strong>Use Git from Windows Command Propmt</strong>.
 
-Afther that, Run Command Propmt and enter this commands:
+Afther that, Run Command Prompt and enter this commands:
 
-<code>git clone https://github.com/GitHackTools/BillCipher</code>
+<code>git clone https://github.com/bahatiphill/BillCipher</code>
 
 <code>cd BillCipher</code>
 
